@@ -19,8 +19,8 @@ class DerivedClass extends BaseClass {
     DerivedClass(int number1, int number2)
     {
         // Инициализируем поле базового класса.
-        baseNumber = number1;
-
+        //baseNumber = number1;
+        super(number1);
         // Инициализируем поле производного (данного) класса.
         derivedField = number2;
     }

@@ -4,7 +4,6 @@ class ClassA {
     void Method1() {
         System.out.println("ClassA.Method1");
     }
-
     void Method2() {
         System.out.println("ClassA.Method2");
     }

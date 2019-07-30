@@ -7,7 +7,12 @@ class ClassB extends ClassA{}
 class Inheritance_008 {
     public static void main(String[] args) {
         ClassB b = new ClassB();
-        ClassA a = null;
+        ClassA a = new ClassA();
+
+        System.out.println(a instanceof ClassA);  // true
+        System.out.println(a instanceof ClassB);  // false
+        System.out.println(b instanceof ClassA);  // true
+        System.out.println(b instanceof ClassB);  // true
 
         //--------------------------------------------- instanceof ---------------------------------------------
         // Оператор instanceof - проверяет совместимость объекта с заданным типом.
@@ -19,11 +24,13 @@ class Inheritance_008 {
         if (b instanceof ClassA)
         {
             // Преобразование типов
-            a = (ClassA)b;
+            a = b;
         }
         else
         {
             a = null;
         }
+
+        System.out.println(a);
     }
 }

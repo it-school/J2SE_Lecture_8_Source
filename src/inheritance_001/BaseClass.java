@@ -4,7 +4,7 @@ package inheritance_001;
 
 class BaseClass {
     // Поля
-
+    final int field = 10;
     // Открытое поле - доступно везде внутри пакета
     String defaultField = "BaseClass.defaultField";
 
@@ -16,4 +16,8 @@ class BaseClass {
 
     // Защищенное поле - доступно только внутри пакета, и доступно наследникам
     protected String protectedField = "BaseClass.protectedField";
+
+    final void method() {
+
+    }
 }

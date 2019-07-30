@@ -6,11 +6,21 @@ class Inheritance_006 {
         instance.Method();
 
         // UpCast
-        BaseClass instanceUp = (BaseClass) instance;
+        BaseClass instanceUp = instance;
         instanceUp.Method();
 
         // DownCast
         DerivedClass instanceDown = (DerivedClass)instanceUp;
         instanceDown.Method();
+
+        System.out.println(instance instanceof DerivedClass);
+        System.out.println(instanceUp instanceof DerivedClass);
+        System.out.println(instanceDown instanceof DerivedClass);
+        System.out.println(instance instanceof BaseClass);
+        System.out.println(instanceUp instanceof BaseClass);
+        System.out.println(instanceDown instanceof BaseClass);
+        System.out.println(instance instanceof Object);
+        System.out.println(instanceUp instanceof Object);
+        System.out.println(instanceDown instanceof Object);
     }
 }
