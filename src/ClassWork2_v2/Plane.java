@@ -40,7 +40,7 @@ public class Plane extends Vehicle
 	public String toString()
 	{
 		String res = super.toString();
-		res = res.substring(0, res.length() - 1) + ", top=" + top + ", passengers=" + passengers + "}";
+		res = "Plane " + res.substring(0, res.length() - 1) + ", top=" + top + ", passengers=" + passengers + "}";
 		return res;
 	}
 }
