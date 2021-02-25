@@ -4,7 +4,7 @@ class Inheritance_005 {
     public static void main(String[] args) {
         DerivedClass instance = new DerivedClass();
 
-        instance.field1 = 1;
+        instance.setField1(1);
         instance.field2 = 2;
         instance.field3 = 3;
 
@@ -12,7 +12,7 @@ class Inheritance_005 {
         instance.field5 = 5;
 
         // Приведение экземпляра класса DerivedClass к базовому типу BaseClass.
-        BaseClass newInstance = (BaseClass)instance; // Upcast
+        BaseClass newInstance = instance; // Upcast
 
         System.out.println(newInstance.field1);
         System.out.println(newInstance.field2);
