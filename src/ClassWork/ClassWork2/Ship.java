@@ -32,8 +32,6 @@ public class Ship extends Vehicle {
 
     @Override
     public String toString() {
-        return super.toString() + "passengersNumber=" + passengersNumber +
-                ", Port='" + Port + '\'' +
-                '}';
+        return super.toString() + ", passengersNumber=" + passengersNumber + ", Port='" + Port + '\'' + '}';
     }
 }

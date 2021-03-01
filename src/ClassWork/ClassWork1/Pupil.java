@@ -1,39 +1,35 @@
 package ClassWork.ClassWork1;
 
 public class Pupil {
-    protected String name;
-    protected int age;
-    protected String characteristics;
+   protected String name;
+   protected String characteristics;
 
-    public Pupil(String name, int age) {
-        this.name = name;
-        this.age = age;
-        this.characteristics = "";
-    }
+   public Pupil(String name) {
+      this.name = name;
+   }
 
-    String study() {
-        return this.name + " usually studies " + this.characteristics;
-    }
+   public Pupil() {
+   }
 
-    String read() {
-        return this.name + " usually reads " + this.characteristics;
-    }
+   public void Study() {
+      System.out.print("Studies ");
+   }
 
-    String write() {
-        return this.name + " usually writes " + this.characteristics;
-    }
+   public void Read() {
+      System.out.print("Reads ");
+   }
 
-    String relax() {
-        return this.name + " usually relaxes ";
-    }
+   public void Write() {
+      System.out.print("Writes ");
+   }
 
-    @Override
-    public String toString() {
-        String className = this.getClass().toString();
-        return className.substring(this.getClass().toString().lastIndexOf(".") + 1) + " {" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                ", characteristics='" + this.study() + ", " + this.read() + ", " + this.write() + ", " + this.relax() + ", " +
-                '}';
-    }
+   public void Relax() {
+      System.out.print("Relax ");
+   }
+
+   @Override
+   public String toString() {
+      return characteristics + " pupil: " + name + "\nStudies " + characteristics + "\tReads " + characteristics
+              + "\tWrites " + characteristics + "\tRelax " + characteristics + "\n";
+   }
 }

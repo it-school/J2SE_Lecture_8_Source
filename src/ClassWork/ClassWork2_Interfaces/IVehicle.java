@@ -2,23 +2,22 @@ package ClassWork.ClassWork2_Interfaces;
 
 import ClassWork.ClassWork2_v2.Coordinates;
 
-public interface IVehicle
-{
-	Coordinates getCoordinates();
+public interface IVehicle {
+   Coordinates getCoordinates();
 
-	void setCoordinates(Coordinates coordinates);
+   void setCoordinates(Coordinates coordinates);
 
-	int getPrice();
+   int getPrice();
 
-	void setPrice(int price);
+   void setPrice(int price);
 
-	double getVelocity();
+   double getVelocity();
 
-	void setVelocity(double velocity);
+   void setVelocity(double velocity);
 
-	int getYearProduced();
+   int getYearProduced();
 
-	void setYearProduced(int yearProducedar);
+   void setYearProduced(int yearProducedar);
 
-	void print();
+   void print();
 }

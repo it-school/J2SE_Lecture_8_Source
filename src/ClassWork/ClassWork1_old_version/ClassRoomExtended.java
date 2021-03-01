@@ -1,4 +1,4 @@
-package ClassWork.ClassWork1;
+package ClassWork.ClassWork1_old_version;
 
 public class ClassRoomExtended {
     public Pupil[] pupils;
