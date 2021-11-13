@@ -16,6 +16,6 @@ class DerivedClass extends BaseClass {
         // эта команда, должна быть всегда первой в методе-конструкторе
         super(number1);
         derivedField = number2;
-        //super(number1); - недопустимо
+//        super(number1); // - недопустимо
     }
 }
