@@ -3,9 +3,9 @@ package ClassWork.ClassWork2021_3.ClassWork3;
 public class Main {
    public static void main(String[] args) {
       String key = "pro";
-      DocumentWorker doc = null;
+      DocumentWorker doc;
 
-      switch (key.toLowerCase()) {
+      switch (key.strip().toLowerCase()) {
          case "pro":
             doc = new ProDocumentWorker();
             break;

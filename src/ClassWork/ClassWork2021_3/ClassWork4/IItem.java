@@ -14,5 +14,4 @@ interface IItem {
     float GetOutPrice();
 
     Date GetInDate();
-
 }

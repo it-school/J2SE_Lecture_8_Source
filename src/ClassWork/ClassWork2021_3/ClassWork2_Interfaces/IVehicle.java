@@ -1,7 +1,5 @@
 package ClassWork.ClassWork2021_3.ClassWork2_Interfaces;
 
-import ClassWork.ClassWork2020.ClassWork2_v2.Coordinates;
-
 public interface IVehicle {
    Coordinates getCoordinates();
 

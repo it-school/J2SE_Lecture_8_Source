@@ -1,0 +1,1553 @@
+{
+  "version": 2,
+  "warnings": [
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\abstraction_006\\AbstractClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task1\\GoodPupil.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\abstraction_004\\ConcreteDerivedClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_002\\Inheritance_002.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\polymorphism\\CakeProducer.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\Bicycle.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_001\\Inheritance_001.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_002\\BaseClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3_Interfaces\\ProDocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\BicycleType.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2_Interfaces\\Vehicle.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task1\\BadPupil.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\polymorphism\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\Interfaces_001\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_003\\BaseClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\abstraction_003\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2\\Constants.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\Plane.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_010\\Inheritance_010.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2_Interfaces\\Coordinates.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork4\\ProductItem.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_005\\DerivedClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3\\ExpertDocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2\\Coordinates.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2_Interfaces\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork1\\Pupil.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task1\\Pupil.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\abstraction_005\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\polymorphism\\CookieProducer.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork4\\IProduct.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3_Interfaces\\DocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork1\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_004\\DerivedClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task3\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3\\DocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\Car.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_005\\BaseClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_003\\DerivedClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\Garage.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork1\\ExcelentPupil.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2_Interfaces\\IVehicle.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork1\\GoodPupil.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\abstraction_002\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task1\\ClassRoom.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_003\\Inheritance_003.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\Vehicle.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_006\\BaseClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_006\\DerivedClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_005\\Inheritance_005.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork1\\ClassRoom.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task3\\DocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task1\\ExcellentPupil.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\abstraction_004\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3_Interfaces\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\polymorphism\\SweetCreator.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\Coordinates.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\polymorphism\\SweetProducer.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task3\\ExpertDocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3_Interfaces\\IDocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2\\Ship.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_007\\DerivedClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3\\ProDocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_007\\Inheritance_007.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2\\Vehicle.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_004\\Inheritance_004.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_006\\Inheritance_006.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_008\\Inheritance_008.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork1\\BadPupil.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\abstraction_001\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_007\\BaseClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task3\\ProDocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_001\\DerivedClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_002\\DerivedClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task1\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_009\\Inheritance_009.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_001\\BaseClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\abstraction_004\\AbstractBaseClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\inheritance_004\\BaseClass.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3_Interfaces\\ExpertDocumentWorker.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork4\\IItem.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\polymorphism\\ChocolateProducer.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork2_Interfaces\\Ship.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_3\\ClassWork3\\Main.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    },
+    {
+      "code": "V009",
+      "cwe": 0,
+      "level": 0,
+      "positions": [
+        {
+          "file": "D:\\Programming\\IdeaProjects\\J2SE_Lecture_8_Source\\src\\ClassWork\\ClassWork2021_11\\task2\\Ship.java",
+          "line": 1,
+          "endLine": 1,
+          "column": 1,
+          "endColumn": 100500
+        }
+      ],
+      "message": "To use free version of PVS-Studio, source code files are required to start with a special comment.",
+      "projects": [],
+      "favorite": false,
+      "falseAlarm": false
+    }
+  ]
+}
