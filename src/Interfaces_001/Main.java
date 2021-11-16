@@ -20,5 +20,6 @@ public class Main {
       MyClass my = new MyClass();
 
       my.method();
+      my.defaultMethod();
    }
 }
