@@ -85,8 +85,8 @@
 2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.internal.vm.compiler.management
 2021-11-13 23:36:18 [INFO ] c.p.p.IncrementalLauncher:278 - Build model from scratch...
 2021-11-13 23:36:19 [INFO ] c.p.p.IncrementalLauncher:312 - Cache saving started.
-2021-11-13 23:36:19 [WARN ] c.p.p.IncrementalLauncher:319 - Spoon compile error: The preview feature Case Labels with '->' is only available with source level 12 and above at D:\Programming\IdeaProjects\J2SE_Lecture_8_Source\src\ClassWork\ClassWork2021_11\task3\Main.java:15
-spoon.support.compiler.SnippetCompilationError: The preview feature Case Labels with '->' is only available with source level 12 and above at D:\Programming\IdeaProjects\J2SE_Lecture_8_Source\src\ClassWork\ClassWork2021_11\task3\Main.java:15
+2021-11-13 23:36:19 [WARN ] c.p.p.IncrementalLauncher:319 - Spoon compile error: The preview feature Case Labels with '->' is only available with source level 12 and above at D:\Programming\IdeaProjects\J2SE_Lecture_8_Source\src\classWork\ClassWork2021_11\task3\Main.java:15
+spoon.support.compiler.SnippetCompilationError: The preview feature Case Labels with '->' is only available with source level 12 and above at D:\Programming\IdeaProjects\J2SE_Lecture_8_Source\src\classWork\ClassWork2021_11\task3\Main.java:15
 	at spoon.support.compiler.jdt.JDTBasedSpoonCompiler.reportProblemsWhenCompiling(JDTBasedSpoonCompiler.java:609)
 	at spoon.support.compiler.jdt.JDTBasedSpoonCompiler.compile(JDTBasedSpoonCompiler.java:167)
 	at com.pvsstudio.projects.IncrementalLauncher.saveCache(IncrementalLauncher.java:315)

@@ -1,20 +1,24 @@
 package Interfaces_001;
 
 interface Interface {
-    void Method();
+   void method();
+
+   default void defaultMethod() {
+      System.out.println("Default method");
+   }
 }
 
 class MyClass implements Interface {
-    @Override
-    public void Method() {
-        System.out.println("Метод - реализация Интерфейса.");
-    }
+   @Override
+   public void method() {
+      System.out.println("Метод - реализация Интерфейса.");
+   }
 }
 
-class Main {
-    public static void main(String[] args) {
-        MyClass my = new MyClass();
+public class Main {
+   public static void main(String[] args) {
+      MyClass my = new MyClass();
 
-        my.Method();
-    }
+      my.method();
+   }
 }
