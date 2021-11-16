@@ -1,98 +1,20 @@
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:64 - ********************************
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:65 - Native library search paths: 
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:948 - .
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..\..
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..\..\build
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:67 - Additional path: native/win
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:76 - Native library found: C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\native\win\analysis-core.dll
-2021-11-13 23:36:16 [INFO ] c.p.r.NativeLoader:77 - ********************************
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:49 - Module: Lesson8_Source
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:50 - Sources:
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - D:/Programming/IdeaProjects/J2SE_Lecture_8_Source/src
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:52 - Classpath:
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jshell
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.datatransfer
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.charsets
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jlink
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.attach
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jfr
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jpackage
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.prefs
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.internal.opt
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jartool
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.sql
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.internal.vm.compiler
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.zipfs
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.internal.jvmstat
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jdwp.agent
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.desktop
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.accessibility
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.management.rmi
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.base
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.management
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.dynalink
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.internal.le
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.editpad
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.security.jgss
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.security.sasl
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.naming.rmi
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.se
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.javadoc
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.crypto.ec
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.internal.vm.ci
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.sctp
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.net
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.internal.ed
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.xml.dom
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jconsole
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.naming
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.instrument
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.logging
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.httpserver
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.net.http
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jdi
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.management
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.scripting
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.management.agent
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.smartcardio
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.xml
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.hotspot.agent
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.crypto.mscapi
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.security.jgss
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.incubator.foreign
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.nio.mapmode
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.rmi
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.transaction.xa
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.incubator.vector
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.naming.dns
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.security.auth
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.compiler
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.localedata
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jsobject
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.unsupported
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jcmd
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.management.jfr
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.random
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jdeps
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.unsupported.desktop
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.compiler
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.crypto.cryptoki
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.jstatd
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.sql.rowset
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/java.xml.crypto
-2021-11-13 23:36:18 [INFO ] c.p.p.JsonEvaluator:75 - C:/Users/vence/.jdks/openjdk-17.0.1!/jdk.internal.vm.compiler.management
-2021-11-13 23:36:18 [INFO ] c.p.p.IncrementalLauncher:278 - Build model from scratch...
-2021-11-13 23:36:19 [INFO ] c.p.p.IncrementalLauncher:312 - Cache saving started.
-2021-11-13 23:36:19 [WARN ] c.p.p.IncrementalLauncher:319 - Spoon compile error: The preview feature Case Labels with '->' is only available with source level 12 and above at D:\Programming\IdeaProjects\J2SE_Lecture_8_Source\src\classWork\ClassWork2021_11\task3\Main.java:15
-spoon.support.compiler.SnippetCompilationError: The preview feature Case Labels with '->' is only available with source level 12 and above at D:\Programming\IdeaProjects\J2SE_Lecture_8_Source\src\classWork\ClassWork2021_11\task3\Main.java:15
-	at spoon.support.compiler.jdt.JDTBasedSpoonCompiler.reportProblemsWhenCompiling(JDTBasedSpoonCompiler.java:609)
-	at spoon.support.compiler.jdt.JDTBasedSpoonCompiler.compile(JDTBasedSpoonCompiler.java:167)
-	at com.pvsstudio.projects.IncrementalLauncher.saveCache(IncrementalLauncher.java:315)
-	at com.pvsstudio.projects.Module.build(Module.java:379)
-	at com.pvsstudio.runner.ModuleWorker.run(ModuleWorker.java:52)
-	at com.pvsstudio.runner.AnalyzerRunner.run(AnalyzerRunner.java:81)
-	at com.pvsstudio.Main.main(Main.java:508)
-2021-11-13 23:36:20 [INFO ] c.p.p.IncrementalLauncher:355 - Cache saving finished.
-2021-11-13 23:36:20 [INFO ] c.p.p.Module:383 - Model build success.
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:64 - ********************************
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:65 - Native library search paths: 
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - .
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..\..
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..\..\build
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:67 - Additional path: native/win
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:76 - Native library found: C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\native\win\analysis-core.dll
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:77 - ********************************
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:64 - ********************************
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:65 - Native library search paths: 
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - .
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..\..
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:948 - C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\..\..\build
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:67 - Additional path: native/win
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:76 - Native library found: C:\Users\vence\AppData\Roaming\PVS-Studio-Java\7.15.54378\native\win\analysis-core.dll
+2021-11-16 20:09:10 [INFO ] c.p.r.NativeLoader:77 - ********************************

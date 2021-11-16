@@ -17,10 +17,12 @@ abstract class AbstractClassB extends AbstractClassA {
 
 // Конкретный класс.
 class ConcreteClass extends AbstractClassB {
+   @Override
    void OperationA() {
       System.out.println("ConcreteClass.OperationA");
    }
 
+   @Override
    void OperationB() {
       System.out.println("ConcreteClass.OperationB");
    }
@@ -28,7 +30,6 @@ class ConcreteClass extends AbstractClassB {
 
 class Main {
    public static void main(String[] args) {
-
       AbstractClassA instance = new ConcreteClass();
 
       instance.OperationA();
