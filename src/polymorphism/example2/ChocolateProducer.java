@@ -1,4 +1,4 @@
-package polymorphism;
+package polymorphism.example2;
 
 public class ChocolateProducer extends SweetProducer {
     @Override

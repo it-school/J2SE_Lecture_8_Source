@@ -1,4 +1,4 @@
-package interfaces.Interfaces_001.interfaces_001;
+package interfaces.Interfaces_001;
 
 interface IInterface {
    void method();

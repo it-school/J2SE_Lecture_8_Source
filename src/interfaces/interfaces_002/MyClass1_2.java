@@ -1,4 +1,4 @@
-package interfaces.Interfaces_001.interfaces_002;
+package interfaces.interfaces_002;
 
 class MyClass1_2 implements IInterface1, IInterface2 {
 

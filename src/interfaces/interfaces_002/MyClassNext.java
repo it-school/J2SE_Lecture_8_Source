@@ -1,4 +1,4 @@
-package interfaces.Interfaces_001.interfaces_002;
+package interfaces.interfaces_002;
 
 public class MyClassNext extends MyClass1_2 {
    public void method() {
