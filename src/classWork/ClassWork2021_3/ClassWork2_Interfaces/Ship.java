@@ -6,9 +6,9 @@ public class Ship extends Vehicle {
 
    public Ship(Coordinates coordinates, int price, int speed, int year, int passengersNumber, String port) {
       super(coordinates, price, speed, year);
-      this.passengersNumber = passengersNumber;
-      this.port = port;
-      measurements = "k/h"; // knots per hour
+      this.setPassengersNumber(passengersNumber);
+      this.setPort(port);
+      measurements = "m/h"; // knots per hour
    }
 
    public int getPassengersNumber() {
@@ -39,5 +39,11 @@ public class Ship extends Vehicle {
    @Override
    public void print() {
       System.out.println(this);
+   }
+
+   @Override
+   public void move(int longitude, int latitude) {
+      super.move(longitude, latitude);
+      System.out.println("This " + this.getClass().getSimpleName() + " is going (swimming) to " + this.getCoordinates());
    }
 }

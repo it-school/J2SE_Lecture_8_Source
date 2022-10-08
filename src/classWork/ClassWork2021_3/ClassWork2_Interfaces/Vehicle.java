@@ -53,8 +53,8 @@ public abstract class Vehicle implements IVehicle {
    }
 
    @Override
-   public void setYearProduced(int yearProduced) {
-      this.yearProduced = yearProduced > 1900 && yearProduced <= (new Date().getYear() + 1900) ? yearProduced : -1;
+   public void setYearProduced(int yearProducer) {
+      this.yearProduced = yearProducer > 1900 && yearProducer <= (new Date().getYear() + 1900) ? yearProducer : -1;
    }
 
    @Override
@@ -65,5 +65,10 @@ public abstract class Vehicle implements IVehicle {
               ", speed=" + (velocity > 0 ? (velocity + " " + measurements).trim() : "n/a") +
               ", year=" + (yearProduced > 0 ? yearProduced : "n/a") +
               '}';
+   }
+
+   @Override
+   public void move(int longitude, int latitude) {
+      this.setCoordinates(new Coordinates(longitude, latitude));
    }
 }

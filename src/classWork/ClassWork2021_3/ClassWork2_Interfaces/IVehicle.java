@@ -15,7 +15,9 @@ public interface IVehicle {
 
    int getYearProduced();
 
-   void setYearProduced(int yearProducedar);
+   void setYearProduced(int yearProducer);
 
    void print();
+
+   void move(int longitude, int latitude);
 }

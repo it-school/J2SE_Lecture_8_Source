@@ -2,7 +2,7 @@ package classWork.ClassWork2021_3.ClassWork3;
 
 public class Main {
    public static void main(String[] args) {
-      String key = "pro";
+      String key = "expert";
       DocumentWorker doc;
 
       switch (key.strip().toLowerCase()) {
